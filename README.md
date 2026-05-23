@@ -1,14 +1,7 @@
-## About Me
+I'm a hands-on technology leader with deep experience building reliable platforms, infrastructure, and engineering systems at scale. My work sits at the intersection of SRE, DevOps, observability, cloud platforms, automation, and pragmatic engineering leadership.
 
-Hi there! 👋 I'm a passionate engineering leader with a strong technical foundation and over 15 years of experience in software development and Linux environments. While my early career was all about writing code in C, Java, Scala, Golang, and JavaScript, today I’m focused on enabling and supporting engineering teams to achieve their best as an Engineering Manager.
+Over the years I’ve built and scaled platform practices around SLOs, incident response, canary releases, chaos engineering, cost optimization, and production reliability. I’ve led large engineering organizations through major platform transitions, including moving complex desktop-era systems into scalable cloud-native architectures.
 
-Ask Me About
+I’ve also contributed directly to observability ecosystems around Grafana and Prometheus, and I care deeply about tools that make systems understandable, operable, and resilient.
 
-- People Management: Building high-performing teams with psychological safety and transparency.
-- Technical Topics: Linux, Open Source, DevOps, Software Architecture, and distributed systems.
-- Philosophy & Strategy: Mental models, decision-making, and creating sustainable team cultures.
-
-I thrive at the intersection of technology and people. My mission is to connect ideas and empower teams to deliver impactful solutions. I've worked in both service and product-based companies, leading distributed teams and delivering scalable SaaS and on-premise platforms.
-
-Beyond management, I still enjoy staying hands-on with code and technology, keeping my skills sharp and my mind fit. For me, engineering isn’t just a profession—it’s a lifelong passion.
-
+Lately, that platform mindset is focused on trading: market data pipelines, scanners, analytics, automation, and decision-support systems. I’m interested in the engineering behind better trading workflows: clean data, fast feedback loops, reliable infrastructure, and tools that turn market noise into useful signal.
